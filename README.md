@@ -9,7 +9,7 @@
 
 ## 🤔 What _is_ this _thing_?
 
-It's about the simplest example of connecting a Gatsby site to [Supabase](https://supabase.com/) as you could ask for! Figured I'd try it out and see if it worked straight away. All good.
+It's about the simplest example of connecting a Gatsby site to [Supabase](https://supabase.com/) as you could ask for! Figured I'd try [gatsby-source-supabase](https://www.gatsbyjs.com/plugins/gatsby-source-supabase/) out and see if it worked straight away. All good.
 
 ## 🚀 Quick start (Gatsby Cloud)
 
