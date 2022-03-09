@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `new`,
+    title: `Simple Supabase Test`,
     siteUrl: `https://www.yourdomain.tld`,
   },
   plugins: [

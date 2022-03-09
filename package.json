@@ -2,7 +2,7 @@
   "name": "supabase-test",
   "version": "1.0.0",
   "private": true,
-  "description": "supabase-test",
+  "description": "Super simple little connection from Gatsby to supabase",
   "author": "pragmaticpat",
   "keywords": [
     "gatsby"
